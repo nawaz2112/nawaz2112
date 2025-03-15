@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nawaz!
 
 ## 🚀 About Me  
-I'm a passionate **Computer Science and Engineering (CSE - AIML) student** at **Vardhaman College of Engineering**, specializing in **Artificial Intelligence and Machine Learning**. I love exploring new technologies and working on **AI, Machine Learning, Web Development, and Mobile App Development**.
+I'm a passionate **Computer Science and Engineering (CSE) student** at **Vardhaman College of Engineering**. I love exploring new technologies and working on **AI, Machine Learning, Web Development, and Mobile App Development**.
 
 ### 🔭 I’m currently working on:  
 - **AI-powered ISL Gesture Recognition System** using NLP & Speech Processing  
@@ -14,7 +14,6 @@ I'm a passionate **Computer Science and Engineering (CSE - AIML) student** at **
 
 ### 👯 I’m looking to collaborate on:  
 - **AI/ML-based projects**  
-- **Open-source contributions**  
 - **Full-stack web and mobile applications**  
 
 ### 🤔 I’m looking for help with:  
